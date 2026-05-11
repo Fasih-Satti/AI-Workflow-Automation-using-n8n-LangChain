@@ -1,6 +1,0 @@
-jobs:
-  create-patch-pr:
-    permissions:
-      contents: write
-      pull-requests: write
-    uses: Fasih-Satti/AI-Workflow-Automation-using-n8n-LangChain/.github/workflows/release-create-pr.yml@918bc2452...
